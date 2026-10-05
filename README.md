@@ -70,10 +70,4 @@ recommendations, followed by a bounded multi-page docs audit.
 
 ## AI-agent contribution
 
-The coding agent researched current DeepSpace documentation and examples,
-scaffolded the app, implemented the schema, job pipeline, integration boundary,
-UI, and initial tests. The human owner selected the final product direction,
-completed DeepSpace authentication, reviewed the live product, and owns the
-submission. The final verification record should include the production smoke,
-one real end-to-end audit, and a review of the generated evidence against its
-source pages.
+I used a coding agent to accelerate DeepSpace documentation research, project scaffolding, implementation, and initial testing. I directed the product scope, selected the final workflow, and approved the owner-only boundary that protects integration credits. I completed account authentication, reviewed the deployed application, tested the public reviewer experience, ran a real GitHub–Firecrawl–OpenAI audit through the owner account, and checked the generated findings against the repository and product website.
